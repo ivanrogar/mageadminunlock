@@ -1,0 +1,1 @@
+Easily change a password for an admin user from the Magento console
